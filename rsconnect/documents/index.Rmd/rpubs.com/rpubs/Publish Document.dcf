@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/181098/e3f08692107640dbbdcbaacac0ef63e9
+bundleId: https://api.rpubs.com/api/v1/document/181098/e3f08692107640dbbdcbaacac0ef63e9
+url: http://rpubs.com/vmalino/181098
+when: 1463338326.75149
